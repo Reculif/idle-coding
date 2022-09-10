@@ -1,0 +1,1 @@
+A collection of my solutions to small coding excercises I find online
